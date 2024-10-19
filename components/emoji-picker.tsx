@@ -1,4 +1,5 @@
 "use client";
+"use strict";
 
 import React from "react";
 import { Smile } from "lucide-react";
